@@ -6,7 +6,7 @@
     <groupId>de.wroracer</groupId>
     <artifactId>uno-frontend-vaadin</artifactId>
     <name>UNO-Frontend-Vaadin</name>
-    <version>0.0.0</version>
+    <version>0.0.0-dev0</version>
     <packaging>jar</packaging>
 
     <properties>
