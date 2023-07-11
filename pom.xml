@@ -6,7 +6,7 @@
 
     <groupId>de.wroracer</groupId>
     <artifactId>uno-frontend-root</artifactId>
-    <version>0.0.0-dev0</version>
+    <version>0.0.0</version>
     <packaging>pom</packaging>
     <modules>
         <module>UNO-Frontend-Vaadin</module>
